@@ -1,0 +1,212 @@
+[
+    {  
+        "questionType": "Question 1",
+        "questionImg": "norris.jpg",
+        "questionImgCredit": "Photo : NHL via Getty Images",
+        "questionTxt": "Quel joueur suisse est le seul à avoir obtenu un trophée individuel en NHL?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Roman Josi",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Nico Hischier",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Kevin Fiala",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": "En 2020, le défenseur de Nashville a remporté le trophée James-Norris, qui récompense le meilleur défenseur de la Ligue."
+    },
+    { 
+        "questionType": "Question 2",
+        "questionImg": "hiller.jpg",
+        "questionImgCredit": "Photo : freshfocus",
+        "questionTxt": "Jonas Hiller a porté le maillot de deux équipes en NHL. Lesquelles?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Anaheim et Calgary",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Nashville et Carolina",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Winnipeg et Montréal",
+                "answerIsTrue": false
+            }            
+        ],
+        "questionHint": null
+    },
+    { 
+        "questionType": "Question 3",
+        "questionImg": "fiala.jpg",
+        "questionImgCredit": "Photo : Getty Images",
+        "questionTxt": "Avant de partir en NHL, Kevin Fiala a pris ses marques dans une Ligue nordique. Laquelle?",
+        "questionAnswers": [
+            {
+                "answerTxt": "EHL (Ligue norvégienne)",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Liiga (Ligue finlandaise)",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "SHL (Ligue suédoise)",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": null
+    },
+    { 
+        "questionType": "Question 4",
+        "questionImg": "hischier.jpg",
+        "questionImgCredit": "Photo : NHL via Getty Images",
+        "questionTxt": "Nico Hischier a été choisi en première position de la draft par les New Jersey Devils. En quelle année était-ce?",
+        "questionAnswers": [
+            {
+                "answerTxt": "2017",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "2018",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "2019",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    { 
+    	"questionType": "Question 5",
+        "questionImg": "niederreiter.jpg",
+        "questionImgCredit": "Photo : Sven Thomann",
+        "questionTxt": "Combien de franchises a connues Nino Niederreiter de ses débuts en NHL à décembre 2023?",
+        "questionAnswers": [
+            {
+                "answerTxt": "3",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "4",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "5",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": "L’attaquant grison a évolué pour les New York Islanders, le Minnesota Wild, les Carolina Hurricanes, les Nashville Predators et les Winnipeg Jets."
+    },
+    { 
+        "questionType": "Question 6",
+        "questionImg": "sprunger.jpg",
+        "questionImgCredit": "Photo : Keystone",
+        "questionTxt": "Par quelle franchise Julien Sprunger a-t-il été drafté en 2004?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Les New York Rangers",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Le Minnesota Wild",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Les Atlanta Thrashers",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    { 
+        "questionType": "Question 7",
+        "questionImg": "jaks.jpg",
+        "questionImgCredit": "Photo : freshfocus",
+        "questionTxt": "Qui est le premier Suisse formé au pays à avoir évolué en NHL?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Reto Pavoni",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Pauli Jaks",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Olivier Anken",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": "Le 29 janvier 1995, le portier prend part à son seul match de NHL avec les Kings de Los Angeles."
+    },
+    { 
+        "questionType": "Question 8",
+        "questionImg": "josi.jpg",
+        "questionImgCredit": "Photo : Keystone",
+        "questionTxt": "Au 19 décembre, combien de Suisses ont griffé une glace de NHL durant la saison 2023/2024 (gardiens y compris)?",
+        "questionAnswers": [
+            {
+                "answerTxt": "8",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "9",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "10",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": "Roman Josi, Kevin Fiala, Nino Niederreiter, Philipp Kurashev, Nico Hischier, Janis Moser, Timo Meier, Jonas Siegenthaler, Pius Suter et Akira Schmid."
+    },
+    {  
+        "questionType": "Question 9",
+        "questionImg": "draft.jpg",
+        "questionImgCredit": "Photo : Keystone",
+        "questionTxt": "Lors de la draft 2023, un seul Suisse a été appelé. Qui était-ce?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Rodwin Dionicio",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Attilio Biasca",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Théo Rochette",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": "L’ancien junior de Berne et de Herisau a été drafté en 129e position par les Anaheim Ducks."
+    },
+    {  
+        "questionType": "Question 10",
+        "questionImg": "almond.jpg",
+        "questionImgCredit": "Photo : Pius Koller",
+        "questionTxt": "L’actuel joueur du Lausanne HC Cody Almond a disputé 25 matches de NHL dans sa carrière. Avec quelle franchise?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Les Phoenix Coyotes",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Les Ottawa Senators",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Le Minnesota Wild",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": null
+    }
+]

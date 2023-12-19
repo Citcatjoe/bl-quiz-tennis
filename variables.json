@@ -1,0 +1,27 @@
+{
+	"title": "Connaissez-vous les Suisses de NHL?",
+	"titlesocial": "Connaissez-vous les Suisses de NHL?",
+	"description": "La Suisse est la 7e nation la plus représentée au sein de la NHL, la plus grande ligue du monde, lors de cette saison 2023/2024. Êtes-vous calé sur les joueurs actuels? Et qu'en est-il des anciens? Blick vous a concocté un quiz à ce propos.",
+	"authors": {
+		"photos": "Shutterstock",
+		"videos": null,
+		"writer": {
+			"fname": "Matthias",
+			"lname": "Davet",
+			"title": "Journaliste Blick",
+			"filetype": "png",
+			"url": "https://www.blick.ch/fr/auteurs/matthias-davet-journaliste-blick-id16855831.html"
+		},
+		"dev": "César Greppin"
+	},
+	"imgSocial": "social.jpg",
+	"headertheme": "trans", 
+	"blickWhite": false,
+	"blickBlack": true,
+	"headerBoxed": false,
+	"pubDate": "2020-07-23T11:00:00+00:00",
+	"partner": {
+		"logo": "img/empty.png",
+		"link": "https://www.blick.ch/"
+	}
+}

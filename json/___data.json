@@ -1,0 +1,212 @@
+[
+    {  
+        "questionType": "Question 1",
+        "questionImg": "laragut.jpg",
+        "questionImgCredit": "Photo : Keystone-sda.ch",
+        "questionTxt": "On commence tout doux. De quel canton vient Lara Gut-Behrami?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Tessin",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Grisons",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Vaud",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    { 
+        "questionType": "Question 2",
+        "questionImg": "danielyuleramonzenhausern.jpg",
+        "questionImgCredit": "Photo : Sven Thomann",
+        "questionTxt": "Les slalomeurs Daniel Yule et Ramon Zenhäusern sont originaires du même canton. Lequel?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Neuchâtel",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Vaud",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Valais",
+                "answerIsTrue": true
+            }            
+        ],
+        "questionHint": null
+    },
+    { 
+        "questionType": "Question 3",
+        "questionImg": "marcoodermatt.jpg",
+        "questionImgCredit": "Photo : Sven Thomann",
+        "questionTxt": "De quel canton primitif vient Marco Odermatt?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Nidwald",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Uri",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Obwald",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    { 
+        "questionType": "Question 4",
+        "questionImg": "loicmeillard.jpg",
+        "questionImgCredit": "Photo : Sven Thomann",
+        "questionTxt": "Celui-ci porte à débat. Comment se décrit Loïc Meillard?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Neuchâtelois originaire du Valais",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Valaisan originaire de Neuchâtel",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Valaisan originaire du Jura",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    { 
+    	"questionType": "Question 5",
+        "questionImg": "michellegisin.jpg",
+        "questionImgCredit": "Photo : Keystone-sda.ch",
+        "questionTxt": "Tout comme Marco Odermatt, Michelle Gisin vient d’un canton primitif. Mais lequel?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Nidwald",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Uri",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Obwald",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": null
+    },
+    { 
+        "questionType": "Question 6",
+        "questionImg": "alexismonney.jpg",
+        "questionImgCredit": "Photo : Keystone-sda.ch",
+        "questionTxt": "Alexis Monney est l’un des rares skieurs de son canton à performer au meilleur niveau. Mais d’où vient-il?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Jura",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Neuchâtel",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Fribourg",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": null
+    },
+    { 
+        "questionType": "Question 7",
+        "questionImg": "priskanufer.jpg",
+        "questionImgCredit": "Photo : DUKAS",
+        "questionTxt": "En 2022, Priska Nufer a remporté sa première course de Coupe du monde à Crans-Montana. Quel est son canton d’origine?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Obwald",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Schwytz",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Grisons",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    { 
+        "questionType": "Question 8",
+        "questionImg": "alinedanioth.jpg",
+        "questionImgCredit": "Photo : Sven Thomann",
+        "questionTxt": "Aline Danioth a glané l’or par équipes aux Mondiaux de Åre en 2019. Savez-vous de quel canton elle vient?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Grisons",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Uri",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Obwald",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    {  
+        "questionType": "Question 9",
+        "questionImg": "marcokohler.jpg",
+        "questionImgCredit": "Getty Images",
+        "questionTxt": "Mi-décembre, Marco Kohler a pris la huitième place de la descente de Val Gardena. De quel grand canton vient-il?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Obwald",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Berne",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Grisons",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    {  
+        "questionType": "Question 10",
+        "questionImg": "justinmurisier.jpg",
+        "questionImgCredit": "Photo : Keystone-sda.ch",
+        "questionTxt": "On déroge un peu à l’énoncé du quiz pour la dernière. Justin Murisier vient du Valais. Mais de quelle vallée est-il originaire?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Val d'Entremont",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Val Ferret",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Val de Bagnes",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": null
+    }
+]
